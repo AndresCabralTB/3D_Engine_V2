@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\_3D_3ngine_V1.Form1.resources
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.AssemblyInfo.cs
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Debug\net6.0-windows\3D_Engine_V1.exe
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Debug\net6.0-windows\3D_Engine_V1.deps.json
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Debug\net6.0-windows\3D_Engine_V1.runtimeconfig.json
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Debug\net6.0-windows\3D_Engine_V1.dll
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Debug\net6.0-windows\3D_Engine_V1.pdb
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.dll
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\refint\3D_Engine_V1.dll
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.pdb
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\3D_Engine_V1.genruntimeconfig.cache
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\obj\Debug\net6.0-windows\ref\3D_Engine_V1.dll

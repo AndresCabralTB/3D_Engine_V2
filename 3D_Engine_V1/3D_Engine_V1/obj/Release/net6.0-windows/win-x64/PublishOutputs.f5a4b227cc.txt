@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Release\net6.0-windows\publish\win-x64\3D_Engine_V1.exe
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Release\net6.0-windows\publish\win-x64\3D_Engine_V1.dll
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Release\net6.0-windows\publish\win-x64\3D_Engine_V1.deps.json
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Release\net6.0-windows\publish\win-x64\3D_Engine_V1.runtimeconfig.json
+\\Mac\Home\Desktop\Graficacion\Projects\3D_Engine_V1\3D_Engine_V1\bin\Release\net6.0-windows\publish\win-x64\3D_Engine_V1.pdb
